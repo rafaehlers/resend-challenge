@@ -1,0 +1,9 @@
+Jiddu.app
+
+Invoice: #INV-2026-1042
+Customer: Brian
+Amount: $49.00
+Status: Payment failed
+Next retry: September 3, 2026
+
+Sample invoice for the Resend take-home challenge.
